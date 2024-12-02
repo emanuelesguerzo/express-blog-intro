@@ -1,0 +1,25 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "Personal Blog",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "express-blog-intro"
+  },
+  "keywords": [
+    "express",
+    "intro",
+    "personal",
+    "blog"
+  ],
+  "author": "Emanuele Sguerzo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
